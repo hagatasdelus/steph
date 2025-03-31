@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"https://github.com/hagatasdelus/steph/model"
+	"github.com/hagatasdelus/steph/model"
 	"gorm.io/driver/sqlite"
 	"gorm.io/gorm"
 	"gorm.io/gorm/logger"

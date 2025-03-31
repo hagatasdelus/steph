@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"time"
 
-	"https://github.com/hagatasdelus/steph/db"
+	"github.com/hagatasdelus/steph/db"
 	"github.com/spf13/cobra"
 )
 

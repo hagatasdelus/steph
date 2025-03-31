@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-	"https://github.com/hagatasdelus/steph/db"
+	"github.com/hagatasdelus/steph/db"
 )
 
 var rootCmd = &cobra.Command{

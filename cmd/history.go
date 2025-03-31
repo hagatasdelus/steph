@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"https://github.com/hagatasdelus/steph/db"
+	"github.com/hagatasdelus/steph/db"
 	"github.com/gdamore/tcell/v2"
 	"github.com/spf13/cobra"
 )
