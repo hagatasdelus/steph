@@ -1,4 +1,4 @@
-module steph
+module github.com/hagatasdelus/steph
 
 go 1.24.0
 

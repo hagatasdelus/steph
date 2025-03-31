@@ -1,6 +1,6 @@
 package main
 
-import "steph/cmd"
+import "github.com/hagatasdelus/steph/cmd"
 
 func main() {
 	cmd.Execute()
